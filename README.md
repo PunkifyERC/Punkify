@@ -44,7 +44,7 @@ Map your NFT to a name. Soon, your ERC-PIN NFT will link directly to a resolvabl
 Resolve Punkify identities by address or name.
 
 - `GET https://punkify.org/api/resolver?address=0xYourWalletAddress`
-- `GET https://punkify.org/api/resolver?name=username.p`
+- `GET https://punkify.org/api/resolver?name=username`
 
 These endpoints return JSON metadata for identity status, NFT availability, and suggestions for next actions.
 
