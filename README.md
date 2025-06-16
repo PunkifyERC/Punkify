@@ -37,6 +37,24 @@ Map your NFT to a name. Soon, your ERC-PIN NFT will link directly to a resolvabl
 ✅ Glows, Animations, Visual Fingerprint  
 ✅ EIP-compliant, Verifier Friendly
 
+---
+
+## 🌐 Identity Resolver API
+
+Resolve Punkify identities by address or name.
+
+- `GET https://punkify.org/api/resolver?address=0xYourWalletAddress`
+- `GET https://punkify.org/api/resolver?name=username.p`
+
+These endpoints return JSON metadata for identity status, NFT availability, and suggestions for next actions.
+
+Use these in wallets, explorers, or dApps to fetch identity data.
+
+Example:
+```bash
+curl "https://punkify.org/api/resolver?name=satoshi"
+```
+
 🚀 The Vision
 --------------
 
