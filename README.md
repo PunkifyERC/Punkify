@@ -75,11 +75,12 @@ Imagine ENS, but born from the chain. Visual. Evolving. Immutable.
 📦 Contracts
 ------------
 
-| Contract       | Role                    |
-|----------------|-------------------------|
-| `PunkifyNFT`   | The on-chain SVG identity generator (ERC721A) |
-| `ERC20 $P`     | Fuel to mint your identity |
-| `ERC-PIN`      | Future namespace resolver, Soulbound identity anchor |
+| Contract Address                                      | Contract Name    | Role                                                   |
+|-------------------------------------------------------|------------------|--------------------------------------------------------|
+| `0x000000009Ec7d5e96017331951e2c076bC62e64d`          | Punkify ($P)     | ERC20 token — fuel to mint your identity               |
+| `0x49A4f253d58DB654fE02b1149Fb21415362733d4`          | PunkifyNFT       | On-chain SVG identity generator (ERC721A)              |
+| *(coming soon)*                                       | ERC-PIN {ZK}     | Privacy Pool                                           |
+
 
 🧭 Roadmap
 ----------
