@@ -86,12 +86,20 @@ Imagine ENS, but born from the chain. Visual. Evolving. Immutable.
 
 - ✅ ERC721A on-chain SVG Identity
 - ✅ Metadata with full trait structure
-- 🔜 Name Service Integration (ERC-PIN ↔ domain.eth)
-- 🔜 Soulbound Mode (identity locking)
-- 🔜 Punkify Indexer & Explorer
+- ✅ Name Service Integration (ERC-PIN ↔ domain.eth)
+- ✅ Soulbound Mode (identity locking)
+- ✅ Punkify Indexer & Explorer
 - 🔜 zkID Proof Integration → Prove your Punk identity without revealing your wallet.
-  Unlock the next era of privacy-preserving on-chain reputation with zero-knowledge identity attestation. 
+  Unlock the next era of privacy-preserving on-chain reputation with zero-knowledge identity attestation.
   Imagine: verifiable identity, no wallet doxxing, no compromise.
+
+  With zkID, you will be able to:
+  - Execute fully private ERC20 transfers and smart contract interactions.
+  - Leverage Tornado Cash-like integration to unlink source and destination of your transactions.
+  - Preserve total anonymity while proving your identity exists within Punkify’s soulbound registry.
+  - Operate across any EVM-compatible chain — anonymously, securely, and verifiably.
+
+  Your Punkify identity becomes your zero-knowledge passport for interacting with Ethereum in a censorship-resistant, privacy-first way.
 
 💬 Join the Movement
 ---------------------
